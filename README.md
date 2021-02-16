@@ -1,6 +1,6 @@
 # alert_group\_\_frontend_test
 
-![Image alt](https://github.com/script-of-madness/frontent_test__apartment/raw/{master}/screenshots/test_appartment.PNG)
+![Image alt](https://github.com/script-of-madness/frontent_test__apartment/raw/master/screenshots/test_appartment.PNG)
 
 
 ## Project setup
