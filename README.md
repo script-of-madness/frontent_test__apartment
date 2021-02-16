@@ -1,6 +1,7 @@
 # alert_group\_\_frontend_test
 
-![alt text](screenshots\test_appartment.PNG 'скриншет дизайна')
+![Image alt](https://github.com/script-of-madness/frontent_test__apartment/raw/{master}/screenshots/test_appartment.PNG)
+
 
 ## Project setup
 
